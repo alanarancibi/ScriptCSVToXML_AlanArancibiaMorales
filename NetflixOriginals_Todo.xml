@@ -1,0 +1,587 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Peliculas>
+  <Pelicula titulo="Enter the Anime" genero="Documentary" />
+  <Pelicula titulo="Dark Forces" genero="Thriller" />
+  <Pelicula titulo="The App" genero="Science fiction/Drama" />
+  <Pelicula titulo="The Open House" genero="Horror thriller" />
+  <Pelicula titulo="Kaali Khuhi" genero="Mystery" />
+  <Pelicula titulo="Drive" genero="Action" />
+  <Pelicula titulo="Leyla Everlasting" genero="Comedy" />
+  <Pelicula titulo="The Last Days of American Crime" genero="Heist film/Thriller" />
+  <Pelicula titulo="Paradox" genero="Musical/Western/Fantasy" />
+  <Pelicula titulo="Sardar Ka Grandson" genero="Comedy" />
+  <Pelicula titulo="Searching for Sheela" genero="Documentary" />
+  <Pelicula titulo="The Call" genero="Drama" />
+  <Pelicula titulo="Whipped" genero="Romantic comedy" />
+  <Pelicula titulo="All Because of You" genero="Action comedy" />
+  <Pelicula titulo="Mercy" genero="Thriller" />
+  <Pelicula titulo="After the Raid" genero="Documentary" />
+  <Pelicula titulo="Ghost Stories" genero="Horror anthology" />
+  <Pelicula titulo="The Last Thing He Wanted" genero="Political thriller" />
+  <Pelicula titulo="What Happened to Mr. Cha?" genero="Comedy" />
+  <Pelicula titulo="Death Note" genero="Horror thriller" />
+  <Pelicula titulo="&quot;Hello Privilege. It's Me" genero=" Chelsea&quot;" />
+  <Pelicula titulo="Secret Obsession" genero="Thriller" />
+  <Pelicula titulo="Sextuplets" genero="Comedy" />
+  <Pelicula titulo="The Girl on the Train" genero="Thriller" />
+  <Pelicula titulo="Thunder Force" genero="Superhero-Comedy" />
+  <Pelicula titulo="Fatal Affair" genero="Thriller" />
+  <Pelicula titulo="Just Say Yes" genero="Romantic comedy" />
+  <Pelicula titulo="Seriously Single" genero="Comedy" />
+  <Pelicula titulo="The Misadventures of Hedi and Cokeman" genero="Comedy" />
+  <Pelicula titulo="5 Star Christmas" genero="Comedy" />
+  <Pelicula titulo="After Maria" genero="Documentary" />
+  <Pelicula titulo="I Am the Pretty Thing That Lives in the House" genero="Horror" />
+  <Pelicula titulo="Paris Is Us" genero="Romance drama" />
+  <Pelicula titulo="Porta dos Fundos: The First Temptation of Christ" genero="Comedy" />
+  <Pelicula titulo="Rattlesnake" genero="Horror" />
+  <Pelicula titulo="The Players" genero="Comedy" />
+  <Pelicula titulo="We Are One" genero="Documentary" />
+  <Pelicula titulo="Finding Agnes" genero="Drama" />
+  <Pelicula titulo="IO" genero="Science fiction/Drama" />
+  <Pelicula titulo="Sentinelle" genero="Action" />
+  <Pelicula titulo="Sol Levante" genero="Anime / Short" />
+  <Pelicula titulo="The Binding" genero="Drama" />
+  <Pelicula titulo="We Can Be Heroes" genero="Superhero" />
+  <Pelicula titulo="Christmas Crossfire" genero="Thriller" />
+  <Pelicula titulo="Coin Heist" genero="Heist" />
+  <Pelicula titulo="Mrs. Serial Killer" genero="Thriller" />
+  <Pelicula titulo="Nobody Sleeps in the Woods Tonight" genero="Horror" />
+  <Pelicula titulo="Take the 10" genero="Comedy" />
+  <Pelicula titulo="The Main Event" genero="Comedy" />
+  <Pelicula titulo="The Ridiculous 6" genero="Western" />
+  <Pelicula titulo="Earth and Blood" genero="Action" />
+  <Pelicula titulo="Fearless" genero="Animation/Superhero" />
+  <Pelicula titulo="Holiday Rush" genero="Family film" />
+  <Pelicula titulo="The Day of the Lord" genero="Drama" />
+  <Pelicula titulo="Airplane Mode" genero="Comedy" />
+  <Pelicula titulo="How It Ends" genero="Action-thriller" />
+  <Pelicula titulo="Love Like the Falling Rain" genero="Drama" />
+  <Pelicula titulo="Rebirth" genero="Thriller" />
+  <Pelicula titulo="Squared Love" genero="Romantic comedy" />
+  <Pelicula titulo="Cadaver" genero="Horror" />
+  <Pelicula titulo="Clinical" genero="Thriller" />
+  <Pelicula titulo="Coffee &amp; Kareem" genero="Action comedy" />
+  <Pelicula titulo="Dude" genero="Teen comedy-drama" />
+  <Pelicula titulo="Geez &amp; Ann" genero="Romantic drama" />
+  <Pelicula titulo="The Larva Island Movie" genero="Animation" />
+  <Pelicula titulo="#REALITYHIGH" genero="Comedy" />
+  <Pelicula titulo="American Factory: A Conversation with the Obamas " genero="Aftershow / Interview" />
+  <Pelicula titulo="Desperados" genero="Romantic comedy" />
+  <Pelicula titulo="Dolly Parton's Christmas on the Square" genero="Christmas musical" />
+  <Pelicula titulo="Father of the Year" genero="Comedy" />
+  <Pelicula titulo="Firebrand" genero="Drama" />
+  <Pelicula titulo="Ghost Lab" genero="Horror" />
+  <Pelicula titulo="Girlfriend's Day" genero="Comedy" />
+  <Pelicula titulo="Handsome: A Netflix Mystery Movie" genero="Comedy" />
+  <Pelicula titulo="Hubie Halloween" genero="Comedy" />
+  <Pelicula titulo="Ibiza" genero="Comedy" />
+  <Pelicula titulo="Rim of the World" genero="Science fiction adventure" />
+  <Pelicula titulo="Sandy Wexler" genero="Comedy" />
+  <Pelicula titulo="See You Yesterday" genero="Science fiction" />
+  <Pelicula titulo="Still Laugh-In: The Stars Celebrate" genero="Variety show" />
+  <Pelicula titulo="&quot;Strip Down" genero=" Rise Up&quot;" />
+  <Pelicula titulo="Tall Girl" genero="Comedy-drama" />
+  <Pelicula titulo="The Beast" genero="Drama" />
+  <Pelicula titulo="The Week Of" genero="Comedy" />
+  <Pelicula titulo="A Christmas Prince: The Royal Wedding" genero="Romantic comedy" />
+  <Pelicula titulo="Back to School" genero="Comedy" />
+  <Pelicula titulo="Dangerous Lies" genero="Thriller" />
+  <Pelicula titulo="Gunjan Saxena: The Kargil Girl" genero="Drama" />
+  <Pelicula titulo="Intuition" genero="Thriller" />
+  <Pelicula titulo="The Most Assassinated Woman in the World" genero="Thriller" />
+  <Pelicula titulo="Things Heard &amp; Seen" genero="Horror" />
+  <Pelicula titulo="&quot;To Each" genero=" Her Own&quot;" />
+  <Pelicula titulo="Who Would You Take to a Deserted Island?" genero="Drama" />
+  <Pelicula titulo="XOXO" genero="Drama" />
+  <Pelicula titulo="A Babysitter's Guide to Monster Hunting" genero="Comedy/Fantasy/Family" />
+  <Pelicula titulo="A Christmas Prince: The Royal Baby" genero="Romantic comedy" />
+  <Pelicula titulo="Despite Everything" genero="Comedy" />
+  <Pelicula titulo="Dolly Kitty and Those Twinkling Stars" genero="Drama" />
+  <Pelicula titulo="Freaks: You're One of Us" genero="Supernatural drama" />
+  <Pelicula titulo="&quot;Game Over" genero=" Man!&quot;" />
+  <Pelicula titulo="Guilty" genero="Thriller" />
+  <Pelicula titulo="In the Tall Grass" genero="Horror" />
+  <Pelicula titulo="Madame Claude" genero="Drama" />
+  <Pelicula titulo="Naked" genero="Comedy" />
+  <Pelicula titulo="Outside the Wire" genero="Action/Science fiction" />
+  <Pelicula titulo="The Princess Switch: Switched Again" genero="Romantic comedy" />
+  <Pelicula titulo="Under the Riccione Sun" genero="Romantic teenage drama" />
+  <Pelicula titulo="A Very Murray Christmas" genero="Comedy / Musical" />
+  <Pelicula titulo="Been So Long" genero="Musical" />
+  <Pelicula titulo="Dead Kids" genero="Thriller" />
+  <Pelicula titulo="Get the Grift" genero="Comedy" />
+  <Pelicula titulo="Ghosts of Sugar Land" genero="Documentary" />
+  <Pelicula titulo="House Arrest" genero="Comedy" />
+  <Pelicula titulo="Kevin Hart's Guide to Black History" genero="Variety show" />
+  <Pelicula titulo="Love Wedding Repeat" genero="Romantic comedy" />
+  <Pelicula titulo="Mute" genero="Science fiction/Mystery" />
+  <Pelicula titulo="" genero="Crime drama" />
+  <Pelicula titulo="Red Dot" genero="Thriller" />
+  <Pelicula titulo="Ride or Die" genero="Psychological thriller drama" />
+  <Pelicula titulo="Step Sisters" genero="Comedy" />
+  <Pelicula titulo="The Cloverfield Paradox" genero="Science fiction" />
+  <Pelicula titulo="The Knight Before Christmas" genero="Romantic comedy" />
+  <Pelicula titulo="The Legacy of a Whitetail Deer Hunter" genero="Adventure/Comedy" />
+  <Pelicula titulo="The Package" genero="Black comedy" />
+  <Pelicula titulo="Unicorn Store" genero="Comedy" />
+  <Pelicula titulo="Wine Country" genero="Comedy" />
+  <Pelicula titulo="Bomb Scared" genero="Black comedy" />
+  <Pelicula titulo="Brahman Naman" genero="Comedy" />
+  <Pelicula titulo="Double Dad" genero="Comedy-drama" />
+  <Pelicula titulo="Falling Inn Love" genero="Romantic comedy" />
+  <Pelicula titulo="Hold the Dark" genero="Thriller" />
+  <Pelicula titulo="&quot;Love" genero=" Guaranteed&quot;" />
+  <Pelicula titulo="One-Way to Tomorrow" genero="Romance" />
+  <Pelicula titulo="Sarah Cooper: Everything's Fine" genero="Variety show" />
+  <Pelicula titulo="The Last Laugh" genero="Comedy-drama" />
+  <Pelicula titulo="The Last Paradiso" genero="Romantic drama" />
+  <Pelicula titulo="The Midnight Sky" genero="Science fiction" />
+  <Pelicula titulo="The Paramedic" genero="Thriller" />
+  <Pelicula titulo="The Sleepover" genero="Comedy" />
+  <Pelicula titulo="Vampires vs. the Bronx" genero="Horror comedy" />
+  <Pelicula titulo="Why Did You Kill Me?" genero="Documentary" />
+  <Pelicula titulo="A Week Away" genero="Christian musical" />
+  <Pelicula titulo="Caught by a Wave" genero="Romantic teen drama" />
+  <Pelicula titulo="Christmas Inheritance" genero="Romantic drama" />
+  <Pelicula titulo="Dad Wanted" genero="Family" />
+  <Pelicula titulo="El Camino Christmas" genero="Dark comedy" />
+  <Pelicula titulo="Eli" genero="Horror" />
+  <Pelicula titulo="Ginny Weds Sunny" genero="Romantic comedy" />
+  <Pelicula titulo="Good Sam" genero="Drama" />
+  <Pelicula titulo="Lionheart" genero="Comedy" />
+  <Pelicula titulo="Little Evil" genero="Comedy horror" />
+  <Pelicula titulo="One Take" genero="Documentary" />
+  <Pelicula titulo="&quot;Out of Many" genero=" One&quot;" />
+  <Pelicula titulo="Point Blank" genero="Action" />
+  <Pelicula titulo="Prime Time" genero="Thriller" />
+  <Pelicula titulo="The Do-Over" genero="Action comedy" />
+  <Pelicula titulo="The Holiday Calendar" genero="Romantic comedy" />
+  <Pelicula titulo="The Woman in the Window" genero="Psychological thriller" />
+  <Pelicula titulo="The Wrong Missy" genero="Comedy" />
+  <Pelicula titulo="Velvet Buzzsaw" genero="Thriller" />
+  <Pelicula titulo="Yes Day" genero="Comedy" />
+  <Pelicula titulo="15 August" genero="Comedy-drama" />
+  <Pelicula titulo="A California Christmas" genero="Romantic comedy" />
+  <Pelicula titulo="A Christmas Prince" genero="Romantic comedy" />
+  <Pelicula titulo="All Day and a Night" genero="Drama" />
+  <Pelicula titulo="American Son" genero="Drama" />
+  <Pelicula titulo="Barry" genero="Biopic" />
+  <Pelicula titulo="Candy Jar" genero="Comedy" />
+  <Pelicula titulo="Choked: Paisa Bolta Hai" genero="Drama" />
+  <Pelicula titulo="Class of '83" genero="Drama" />
+  <Pelicula titulo="Extinction" genero="Science fiction/Thriller" />
+  <Pelicula titulo="Happy Anniversary" genero="Romantic comedy" />
+  <Pelicula titulo="I Am All Girls" genero="Thriller" />
+  <Pelicula titulo="Let It Snow" genero="Romantic comedy" />
+  <Pelicula titulo="Mascots" genero="Mockumentary" />
+  <Pelicula titulo="Operation Christmas Drop" genero="Romantic comedy" />
+  <Pelicula titulo="Rajma Chawal" genero="Comedy-drama" />
+  <Pelicula titulo="Rich in Love" genero="Romantic comedy" />
+  <Pelicula titulo="Rising High" genero="Satire" />
+  <Pelicula titulo="Rodney King" genero="One-man show" />
+  <Pelicula titulo="Sierra Burgess Is a Loser" genero="Romantic comedy-drama" />
+  <Pelicula titulo="Small Crimes" genero="Dark comedy" />
+  <Pelicula titulo="Special Correspondents" genero="Satire" />
+  <Pelicula titulo="TAU" genero="Science fiction/Thriller" />
+  <Pelicula titulo="The After Party" genero="Comedy" />
+  <Pelicula titulo="The Babysitter: Killer Queen" genero="Comedy/Horror" />
+  <Pelicula titulo="The Claus Family" genero="Fantasy" />
+  <Pelicula titulo="The Kissing Booth 2" genero="Romantic comedy" />
+  <Pelicula titulo="The Perfect Date" genero="Romantic comedy" />
+  <Pelicula titulo="What We Wanted" genero="Drama" />
+  <Pelicula titulo="You've Got This" genero="Romantic comedy" />
+  <Pelicula titulo="6 Balloons" genero="Drama" />
+  <Pelicula titulo="A Fall from Grace" genero="Thriller" />
+  <Pelicula titulo="Amateur" genero="Sports-drama" />
+  <Pelicula titulo="Army of the Dead" genero="Zombie/Heist" />
+  <Pelicula titulo="Cam" genero="Psychological horror" />
+  <Pelicula titulo="Earthquake Bird" genero="Mystery" />
+  <Pelicula titulo="&quot;Frankenstein's Monster's Monster" genero=" Frankenstein&quot;" />
+  <Pelicula titulo="Horse Girl" genero="Drama" />
+  <Pelicula titulo="Notes from Dunblane: Lesson from a School Shooting" genero="Documentary" />
+  <Pelicula titulo="Maska" genero="Romantic comedy" />
+  <Pelicula titulo="The Decline" genero="Thriller" />
+  <Pelicula titulo="The Minimalists: Less Is Now" genero="Documentary" />
+  <Pelicula titulo="The Polka King" genero="Comedy-drama" />
+  <Pelicula titulo="The Prom" genero="Musical" />
+  <Pelicula titulo="True Memoirs of an International Assassin" genero="Action comedy" />
+  <Pelicula titulo="Ultras" genero="Sports film" />
+  <Pelicula titulo="Come Sunday" genero="Biopic" />
+  <Pelicula titulo="Forgive Us Our Debts" genero="Drama" />
+  <Pelicula titulo="iBoy" genero="Science fiction/Thriller" />
+  <Pelicula titulo="Lovefucked" genero="Drama" />
+  <Pelicula titulo="Juanita" genero="Drama" />
+  <Pelicula titulo="Murder Mystery" genero="Comedy mystery" />
+  <Pelicula titulo="Project Power" genero="Superhero" />
+  <Pelicula titulo="Rebecca" genero="Romantic thriller" />
+  <Pelicula titulo="The Christmas Chronicles: Part Two" genero="Christmas comedy" />
+  <Pelicula titulo="The Kissing Booth" genero="Romantic comedy" />
+  <Pelicula titulo="The Princess Switch" genero="Romantic comedy" />
+  <Pelicula titulo="To All the Boys: P.S. I Still Love You" genero="Romantic comedy" />
+  <Pelicula titulo="War Machine" genero="War-Comedy" />
+  <Pelicula titulo="6 Underground" genero="Action" />
+  <Pelicula titulo="Between Two Ferns: The Movie" genero="Comedy" />
+  <Pelicula titulo="Burning Sands" genero="Drama" />
+  <Pelicula titulo="Casting JonBenet" genero="Documentary" />
+  <Pelicula titulo="Deidra &amp; Laney Rob a Train" genero="Drama" />
+  <Pelicula titulo="Finding 'Ohana" genero="Family" />
+  <Pelicula titulo="Holidate" genero="Romantic comedy/Holiday" />
+  <Pelicula titulo="Holiday in the Wild" genero="Adventure-romance" />
+  <Pelicula titulo="Hot Girls Wanted" genero="Documentary" />
+  <Pelicula titulo="Like Father" genero="Comedy" />
+  <Pelicula titulo="Lost Girls" genero="Crime drama" />
+  <Pelicula titulo="Otherhood" genero="Comedy" />
+  <Pelicula titulo="Pee-wee's Big Holiday" genero="Adventure" />
+  <Pelicula titulo="Rogue City" genero="Crime drama" />
+  <Pelicula titulo="Sergio" genero="Biopic" />
+  <Pelicula titulo="Stuck Apart" genero="Drama" />
+  <Pelicula titulo="Tersanjung the Movie" genero="Drama" />
+  <Pelicula titulo="The Killer" genero="Western" />
+  <Pelicula titulo="The Lovebirds" genero="Romantic comedy" />
+  <Pelicula titulo="The Most Hated Woman in America" genero="Biopic" />
+  <Pelicula titulo="The Perfection" genero="Horror-thriller" />
+  <Pelicula titulo="" genero="Drama" />
+  <Pelicula titulo="Unknown Origins" genero="Thriller" />
+  <Pelicula titulo="Work It" genero="Dance comedy" />
+  <Pelicula titulo="Alien Xmas" genero="Stop Motion" />
+  <Pelicula titulo="Baggio: The Divine Ponytail" genero="Biopic" />
+  <Pelicula titulo="Below Zero" genero="Drama" />
+  <Pelicula titulo="Citation" genero="Drama" />
+  <Pelicula titulo="Crazy Awesome Teachers" genero="Comedy-drama" />
+  <Pelicula titulo="Have You Ever Seen Fireflies?" genero="Comedy" />
+  <Pelicula titulo="High Flying Bird" genero="Sports-drama" />
+  <Pelicula titulo="In the Shadow of the Moon" genero="Thriller" />
+  <Pelicula titulo="Lost Bullet" genero="Thriller" />
+  <Pelicula titulo="Octonauts &amp; the Caves of Sac Actun" genero="Animation" />
+  <Pelicula titulo="Offering to the Storm" genero="Thriller" />
+  <Pelicula titulo="Roxanne Roxanne" genero="Biopic" />
+  <Pelicula titulo="Someone Great" genero="Romantic comedy" />
+  <Pelicula titulo="Spenser Confidential" genero="Action comedy" />
+  <Pelicula titulo="The Land of Steady Habits" genero="Drama" />
+  <Pelicula titulo="The Rachel Divide" genero="Documentary" />
+  <Pelicula titulo="Voyuer " genero="Documentary" />
+  <Pelicula titulo="Win It All" genero="Comedy" />
+  <Pelicula titulo="1922" genero="Horror/Crime drama" />
+  <Pelicula titulo="A Tale of Two Kitchens" genero="Documentary" />
+  <Pelicula titulo="Alex Strangelove" genero="Romantic comedy" />
+  <Pelicula titulo="Apostle" genero="Horror-thriller" />
+  <Pelicula titulo="Benji" genero="Family film" />
+  <Pelicula titulo="Bright" genero="Urban fantasy" />
+  <Pelicula titulo="Cargo" genero="Drama/Horror" />
+  <Pelicula titulo="Concrete Cowboy" genero="Drama" />
+  <Pelicula titulo="Feel the Beat" genero="Family/Comedy-drama" />
+  <Pelicula titulo="Get the Goat" genero="Comedy" />
+  <Pelicula titulo="I Am Not an Easy Man" genero="Romantic comedy" />
+  <Pelicula titulo="June &amp; Kopi" genero="Drama" />
+  <Pelicula titulo="Music Teacher" genero="Drama" />
+  <Pelicula titulo="Nail Bomber: Manhunt" genero="Documentary" />
+  <Pelicula titulo="Notes for My Son" genero="Drama" />
+  <Pelicula titulo="Polar" genero="Action" />
+  <Pelicula titulo="Porta dos Fundos: The Last Hangover" genero="Comedy" />
+  <Pelicula titulo="Sand Castle" genero="War" />
+  <Pelicula titulo="Shimmer Lake" genero="Crime thriller" />
+  <Pelicula titulo="Spectral" genero="Science fiction/Action" />
+  <Pelicula titulo="The Babysitter" genero="Teen comedy horror" />
+  <Pelicula titulo="The Discovery" genero="Science fiction/Drama" />
+  <Pelicula titulo="The Forest of Love" genero="Drama" />
+  <Pelicula titulo="The Laundromat" genero="Comedy-drama" />
+  <Pelicula titulo="The Legend of Cocaine Island" genero="Documentary" />
+  <Pelicula titulo="The Outsider" genero="Crime drama" />
+  <Pelicula titulo="Time to Hunt" genero="Thriller" />
+  <Pelicula titulo="To All the Boys: Always and Forever" genero="Romantic comedy" />
+  <Pelicula titulo="Travis Scott: Look Mom I Can Fly" genero="Documentary" />
+  <Pelicula titulo="Uncorked" genero="Drama" />
+  <Pelicula titulo="Anelka: Misunderstood" genero="Documentary" />
+  <Pelicula titulo="&quot;Ariana Grande: Excuse Me" genero=" I Love You&quot;" />
+  <Pelicula titulo="ARQ" genero="Science fiction/Thriller" />
+  <Pelicula titulo="Birders" genero="Documentary" />
+  <Pelicula titulo="" genero="Musical comedy" />
+  <Pelicula titulo="First Match" genero="Sports-drama" />
+  <Pelicula titulo="Fractured" genero="Thriller" />
+  <Pelicula titulo="Irreplaceable You" genero="Drama" />
+  <Pelicula titulo="Isi &amp; Ossi" genero="Romantic comedy" />
+  <Pelicula titulo="John Was Trying to Contact Aliens" genero="Documentary" />
+  <Pelicula titulo="Layla Majnun" genero="Romantic drama" />
+  <Pelicula titulo="Murder to Mercy: The Cyntoia Brown Story" genero="Documentary" />
+  <Pelicula titulo="My Own Man" genero="Documentary" />
+  <Pelicula titulo="Nappily Ever After" genero="Comedy-drama" />
+  <Pelicula titulo="Over the Moon" genero="Animation/Musical/Adventure" />
+  <Pelicula titulo="Street Flow" genero="Drama" />
+  <Pelicula titulo="Strong Island" genero="Documentary" />
+  <Pelicula titulo="Sturgill Simpson Presents: Sound &amp; Fury" genero="Animation / Musicial" />
+  <Pelicula titulo="Take Your Pills" genero="Documentary" />
+  <Pelicula titulo="The Heartbreak Club" genero="Comedy-drama" />
+  <Pelicula titulo="The Mars Generation" genero="Documentary" />
+  <Pelicula titulo="The Occupant" genero="Thriller" />
+  <Pelicula titulo="The Willoughbys" genero="Animation/Comedy/Adventure" />
+  <Pelicula titulo="Triple Frontier" genero="Action-thriller" />
+  <Pelicula titulo="Two Catalonias" genero="Documentary" />
+  <Pelicula titulo="Walk. Ride. Rodeo." genero="Drama" />
+  <Pelicula titulo="Wheelman" genero="Action thriller" />
+  <Pelicula titulo="When We First Met" genero="Romantic comedy" />
+  <Pelicula titulo="A 3 Minute Hug" genero="Documentary" />
+  <Pelicula titulo="All the Bright Places" genero="Romance" />
+  <Pelicula titulo="All Together Now" genero="Drama" />
+  <Pelicula titulo="Altered Carbon: Resleeved" genero="Anime/Science fiction" />
+  <Pelicula titulo="Antoine Griezmann: The Making of a Legend" genero="Documentary" />
+  <Pelicula titulo="Canvas " genero="Animation / Short" />
+  <Pelicula titulo="Chadwick Boseman: Portrait of an Artist" genero="Documentary" />
+  <Pelicula titulo="Chopsticks" genero="Comedy" />
+  <Pelicula titulo="Da 5 Bloods" genero="War drama" />
+  <Pelicula titulo="Dolly Parton: A MusiCares Tribute" genero="Documentary" />
+  <Pelicula titulo="Eurovision Song Contest: The Story of Fire Saga" genero="Musical comedy" />
+  <Pelicula titulo="Gerald's Game" genero="Horror thriller" />
+  <Pelicula titulo="His House" genero="Thriller" />
+  <Pelicula titulo="Jingle Jangle: A Christmas Journey" genero="Family/Christmas musical" />
+  <Pelicula titulo="Life Overtakes Me" genero="Documentary" />
+  <Pelicula titulo="Lust Stories" genero="Drama" />
+  <Pelicula titulo="Monster" genero="Drama" />
+  <Pelicula titulo="Mowgli: Legend of the Jungle" genero="Adventure" />
+  <Pelicula titulo="Nobody Knows I'm Here" genero="Drama" />
+  <Pelicula titulo="Nobody Speak: Trials of the Free Press" genero="Documentary" />
+  <Pelicula titulo="Oxygen" genero="Science fiction thriller" />
+  <Pelicula titulo="Set It Up" genero="Romantic comedy" />
+  <Pelicula titulo="The Incredible Jessica James" genero="Comedy" />
+  <Pelicula titulo="Tigertail" genero="Drama" />
+  <Pelicula titulo="Tramps" genero="Romance" />
+  <Pelicula titulo="What Did Jack Do?" genero="Drama / Short" />
+  <Pelicula titulo="Bad Trip" genero="Hidden-camera prank comedy" />
+  <Pelicula titulo="Bird Box" genero="Psychological thriller" />
+  <Pelicula titulo="Bulbbul" genero="Horror" />
+  <Pelicula titulo="Crazy About Her" genero="Romantic comedy" />
+  <Pelicula titulo="Elisa &amp; Marcela" genero="Romance" />
+  <Pelicula titulo="I'll Sleep When I'm Dead" genero="Documentary" />
+  <Pelicula titulo="I'm Thinking of Ending Things" genero="Psychological thriller" />
+  <Pelicula titulo="It Takes a Lunatic" genero="Documentary" />
+  <Pelicula titulo="Milestone" genero="Drama" />
+  <Pelicula titulo="Recovery Boys" genero="Documentary" />
+  <Pelicula titulo="ReMastered: Who Killed Jam Master Jay?" genero="Documentary" />
+  <Pelicula titulo="Shawn Mendes: In Wonder" genero="Documentary" />
+  <Pelicula titulo="Space Sweepers" genero="Science fiction" />
+  <Pelicula titulo="The American Meme" genero="Documentary" />
+  <Pelicula titulo="The Angel" genero="Spy thriller" />
+  <Pelicula titulo="The Crimes That Bind" genero="Crime drama" />
+  <Pelicula titulo="The Red Sea Diving Resort" genero="Spy thriller" />
+  <Pelicula titulo="What Would Sophia Loren Do?" genero="Documentary" />
+  <Pelicula titulo="A Whisker Away" genero="Anime/Fantasy" />
+  <Pelicula titulo="Ajeeb Daastaans" genero="Drama" />
+  <Pelicula titulo="Arlo the Alligator Boy" genero="Animated musical comedy" />
+  <Pelicula titulo="&quot;Bikram: Yogi" genero=" Guru" />
+  <Pelicula titulo="Blame!" genero="Anime/Science fiction" />
+  <Pelicula titulo="Blue Miracle" genero="Drama" />
+  <Pelicula titulo="CounterPunch " genero="Documentary" />
+  <Pelicula titulo="&quot;Crack: Cocaine" genero=" Corruption &amp; Conspiracy&quot;" />
+  <Pelicula titulo="Extraction" genero="Action" />
+  <Pelicula titulo="Giving Voice" genero="Documentary" />
+  <Pelicula titulo="Hillbilly Elegy" genero="Drama" />
+  <Pelicula titulo="Hope Frozen: A Quest to Live Twice" genero="Documentary" />
+  <Pelicula titulo="Imperial Dreams" genero="Drama" />
+  <Pelicula titulo="Just Another Christmas" genero="Comedy" />
+  <Pelicula titulo="Little Miss Sumo" genero="Documentary" />
+  <Pelicula titulo="Malcolm &amp; Marie" genero="Romantic drama" />
+  <Pelicula titulo="&quot;Michael Bolton's Big" genero=" Sexy" />
+  <Pelicula titulo="Moxie" genero="Drama" />
+  <Pelicula titulo="Night in Paradise" genero="Drama" />
+  <Pelicula titulo="Paper Lives" genero="Drama" />
+  <Pelicula titulo="Parchis: The Documentary" genero="Documentary" />
+  <Pelicula titulo="Tallulah" genero="Comedy-drama" />
+  <Pelicula titulo="The Old Guard" genero="Superhero/Action" />
+  <Pelicula titulo="Tony Robbins: I Am Not Your Guru" genero="Documentary" />
+  <Pelicula titulo="Upstarts" genero="Drama" />
+  <Pelicula titulo="22 July" genero="Drama" />
+  <Pelicula titulo="" genero="Drama" />
+  <Pelicula titulo="A Futile and Stupid Gesture" genero="Biographical/Comedy" />
+  <Pelicula titulo="A Life of Speed: The Juan Manuel Fangio Story" genero="Documentary" />
+  <Pelicula titulo="A Love Song for Latasha" genero="Documentary" />
+  <Pelicula titulo="All in My Family" genero="Documentary" />
+  <Pelicula titulo="Always Be My Maybe" genero="Romantic comedy" />
+  <Pelicula titulo="Becoming" genero="Documentary" />
+  <Pelicula titulo="Long Live Brij Mohan" genero="Comedy" />
+  <Pelicula titulo="Calibre" genero="Thriller" />
+  <Pelicula titulo="Death to 2020" genero="Comedy" />
+  <Pelicula titulo="GIMS: On the Record" genero="Documentary" />
+  <Pelicula titulo="Have a Good Trip: Adventures in Psychedelics" genero="Documentary" />
+  <Pelicula titulo="Heroin(e) " genero="Documentary" />
+  <Pelicula titulo="Mercury 13" genero="Documentary" />
+  <Pelicula titulo="Saving Capitalism" genero="Documentary" />
+  <Pelicula titulo="Serious Men" genero="Drama" />
+  <Pelicula titulo="The Boys in the Band" genero="Drama" />
+  <Pelicula titulo="The Boys in the Band: Something Personal" genero="Aftershow / Interview" />
+  <Pelicula titulo="The Life Ahead" genero="Drama" />
+  <Pelicula titulo="The Other Side of the Wind" genero="Drama" />
+  <Pelicula titulo="The Trader" genero="Documentary" />
+  <Pelicula titulo="To the Bone" genero="Drama" />
+  <Pelicula titulo="Tony Parker: The Final Shot" genero="Documentary" />
+  <Pelicula titulo="AK vs AK" genero="Thriller" />
+  <Pelicula titulo="Amanda Knox" genero="Documentary" />
+  <Pelicula titulo="Bigflo &amp; Oil: Hip Hop Frenzy" genero="Documentary" />
+  <Pelicula titulo="Biggie: I Got a Story to Tell" genero="Documentary" />
+  <Pelicula titulo="Cops and Robbers" genero="Animation / Short" />
+  <Pelicula titulo="I Don't Feel at Home in This World Anymore" genero="Drama" />
+  <Pelicula titulo="Laerte-se" genero="Documentary" />
+  <Pelicula titulo="Mank" genero="Biopic" />
+  <Pelicula titulo="Our Souls at Night" genero="Romance" />
+  <Pelicula titulo="Outlaw King" genero="Historical-epic" />
+  <Pelicula titulo="Pagglait" genero="Comedy-drama" />
+  <Pelicula titulo="ReMastered: Who Shot the Sheriff?" genero="Documentary" />
+  <Pelicula titulo="Seeing Allred" genero="Documentary" />
+  <Pelicula titulo="Spelling the Dream" genero="Documentary" />
+  <Pelicula titulo="The Claudia Kishi Club" genero="Documentary" />
+  <Pelicula titulo="The Half of It" genero="Romance" />
+  <Pelicula titulo="The Highwaymen" genero="Crime drama" />
+  <Pelicula titulo="The Lonely Island Presents: The Unauthorized Bash Brothers Experience" genero="Comedy / Musical" />
+  <Pelicula titulo="The Meyerowitz Stories (New and Selected)" genero="Comedy-drama" />
+  <Pelicula titulo="Feminists: What Were They Thinking?" genero="Documentary" />
+  <Pelicula titulo="Gaga: Five Foot Two" genero="Documentary" />
+  <Pelicula titulo="I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuaron" genero="Aftershow / Interview" />
+  <Pelicula titulo="Kingdom of Us" genero="Documentary" />
+  <Pelicula titulo="&quot;Lorena" genero=" Light-Footed Woman&quot;" />
+  <Pelicula titulo="Los Tigres del Norte at Folsom Prison" genero="Documentary" />
+  <Pelicula titulo="Ma Rainey's Black Bottom" genero="Drama" />
+  <Pelicula titulo="Ma Rainey's Black Bottom: A Legacy Brought to Screen" genero="Aftershow / Interview" />
+  <Pelicula titulo="Operation Varsity Blues: The College Admissions Scandal" genero="Documentary" />
+  <Pelicula titulo="Pele" genero="Documentary" />
+  <Pelicula titulo="ReMastered: Devil at the Crossroads" genero="Documentary" />
+  <Pelicula titulo="ReMastered: The Lion's Share" genero="Documentary" />
+  <Pelicula titulo="ReMastered: The Miami Showband Massacre" genero="Documentary" />
+  <Pelicula titulo="Resurface" genero="Documentary" />
+  <Pelicula titulo="Rocko's Modern Life: Static Cling" genero="Animation / Comedy" />
+  <Pelicula titulo="Rose Island" genero="Comedy" />
+  <Pelicula titulo="The Christmas Chronicles" genero="Christmas/Fantasy/Adventure/Comedy" />
+  <Pelicula titulo="The Dirt" genero="Biopic" />
+  <Pelicula titulo="The Night Comes for Us" genero="Action-thriller" />
+  <Pelicula titulo="13th: A Conversation with Oprah Winfrey &amp; Ava DuVernay" genero="Aftershow / Interview" />
+  <Pelicula titulo="Angela's Christmas" genero="Animation" />
+  <Pelicula titulo="Angela's Christmas Wish" genero="Animation" />
+  <Pelicula titulo="Beats" genero="Drama" />
+  <Pelicula titulo="Circus of Books" genero="Documentary" />
+  <Pelicula titulo="Dance Dreams: Hot Chocolate Nutcracker" genero="Documentary" />
+  <Pelicula titulo="Derren Brown: Sacrifice" genero="Mentalism special" />
+  <Pelicula titulo="El Pepe: A Supreme Life" genero="Documentary" />
+  <Pelicula titulo="End Game" genero="Documentary" />
+  <Pelicula titulo="Evelyn" genero="Documentary" />
+  <Pelicula titulo="Ferry" genero="Crime drama" />
+  <Pelicula titulo="Grass Is Greener" genero="Documentary" />
+  <Pelicula titulo="Guillermo Vilas: Settling the Score" genero="Documentary" />
+  <Pelicula titulo="Joshua: Teenager vs. Superpower" genero="Documentary" />
+  <Pelicula titulo="Keith Richards: Under the Influence" genero="Documentary" />
+  <Pelicula titulo="Knock Down the House" genero="Documentary" />
+  <Pelicula titulo="Loudon Wainwright III: Surviving Twin" genero="One-man show" />
+  <Pelicula titulo="My Beautiful Broken Brain" genero="Documentary" />
+  <Pelicula titulo="One of Us" genero="Documentary" />
+  <Pelicula titulo="Pieces of a Woman" genero="Drama" />
+  <Pelicula titulo="&quot;Ram Dass" genero=" Going Home&quot;" />
+  <Pelicula titulo="ReMastered: Tricky Dick &amp; the Man in Black" genero="Documentary" />
+  <Pelicula titulo="Rooting for Roona" genero="Documentary" />
+  <Pelicula titulo="The Devil All the Time" genero="Psychological thriller" />
+  <Pelicula titulo="The Dig" genero="Drama" />
+  <Pelicula titulo="The Great Hack" genero="Documentary" />
+  <Pelicula titulo="The White Tiger" genero="Drama" />
+  <Pelicula titulo="To All the Boys I've Loved Before" genero="Romantic comedy" />
+  <Pelicula titulo="American Murder: The Family Next Door" genero="Documentary" />
+  <Pelicula titulo="Audrie &amp; Daisy" genero="Documentary" />
+  <Pelicula titulo="First They Killed My Father" genero="Drama" />
+  <Pelicula titulo="Fyre: The Greatest Party That Never Happened" genero="Documentary" />
+  <Pelicula titulo="Into the Inferno" genero="Documentary" />
+  <Pelicula titulo="LA Originals" genero="Documentary" />
+  <Pelicula titulo="Ladies First" genero="Documentary" />
+  <Pelicula titulo="Love per Square Foot" genero="Romantic comedy" />
+  <Pelicula titulo="Paddleton" genero="Drama-Comedy" />
+  <Pelicula titulo="Private Life" genero="Drama" />
+  <Pelicula titulo="Seventeen" genero="Coming-of-age comedy-drama" />
+  <Pelicula titulo="Sometimes" genero="Drama" />
+  <Pelicula titulo="Soni" genero="Crime drama" />
+  <Pelicula titulo="The 40-Year-Old Version" genero="Comedy" />
+  <Pelicula titulo="The Disciple" genero="Drama" />
+  <Pelicula titulo="The Edge of Democracy" genero="Documentary" />
+  <Pelicula titulo="The King" genero="Historical drama" />
+  <Pelicula titulo="The Road to El Camino: A Breaking Bad Movie" genero="Making-of" />
+  <Pelicula titulo="The Siege of Jadotville" genero="War" />
+  <Pelicula titulo="Zion " genero="Documentary" />
+  <Pelicula titulo="Dolemite Is My Name" genero="Biopic" />
+  <Pelicula titulo="El Camino: A Breaking Bad Movie" genero="Crime drama" />
+  <Pelicula titulo="Extremis" genero="Documentary" />
+  <Pelicula titulo="Father Soldier Son" genero="Documentary" />
+  <Pelicula titulo="Get Me Roger Stone" genero="Documentary" />
+  <Pelicula titulo="I'm No Longer Here" genero="Drama" />
+  <Pelicula titulo="Mucho Mucho Amor: The Legend of Walter Mercado " genero="Documentary" />
+  <Pelicula titulo="Octonauts &amp; the Great Barrier Reef" genero="Animation" />
+  <Pelicula titulo="Okja" genero="Action-adventure" />
+  <Pelicula titulo="On My Skin" genero="Crime drama" />
+  <Pelicula titulo="Raat Akeli Hai" genero="Thriller" />
+  <Pelicula titulo="ReMastered: Massacre at the Stadium" genero="Documentary" />
+  <Pelicula titulo="ReMastered: The Two Killings of Sam Cooke" genero="Documentary" />
+  <Pelicula titulo="Secrets of the Saqqara Tomb" genero="Documentary" />
+  <Pelicula titulo="Sitara: Let Girls Dream" genero="Animation / Short" />
+  <Pelicula titulo="Sky Ladder: The Art of Cai Guo-Qiang" genero="Documentary" />
+  <Pelicula titulo="Team Foxcatcher" genero="Documentary" />
+  <Pelicula titulo="The Ballad of Buster Scruggs" genero="Western" />
+  <Pelicula titulo="The Death and Life of Marsha P. Johnson" genero="Documentary" />
+  <Pelicula titulo="The Fundamentals of Caring" genero="Comedy-drama" />
+  <Pelicula titulo="The Other One: The Long Strange Trip of Bob Weir" genero="Documentary" />
+  <Pelicula titulo="American Factory" genero="Documentary" />
+  <Pelicula titulo="Fire in Paradise" genero="Documentary" />
+  <Pelicula titulo="Long Shot" genero="Documentary" />
+  <Pelicula titulo="Miss Americana" genero="Documentary" />
+  <Pelicula titulo="Period. End of Sentence." genero="Documentary" />
+  <Pelicula titulo="Shawn Mendes: Live in Concert" genero="Concert Film" />
+  <Pelicula titulo="Shirkers" genero="Documentary" />
+  <Pelicula titulo="The Black Godfather" genero="Documentary" />
+  <Pelicula titulo="The Irishman: In Conversation" genero="Aftershow / Interview" />
+  <Pelicula titulo="The Speed Cubers" genero="Documentary" />
+  <Pelicula titulo="They'll Love Me When I'm Dead" genero="Documentary" />
+  <Pelicula titulo="Tig" genero="Documentary" />
+  <Pelicula titulo="&quot;Barbra: The Music" genero=" The Mem'ries" />
+  <Pelicula titulo="Blackpink: Light Up the Sky" genero="Documentary" />
+  <Pelicula titulo="City of Joy" genero="Documentary" />
+  <Pelicula titulo="Dick Johnson Is Dead" genero="Documentary" />
+  <Pelicula titulo="Homecoming: A Film by Beyonce " genero="Documentary" />
+  <Pelicula titulo="Invader Zim: Enter the Florpus" genero="Animation / Science Fiction" />
+  <Pelicula titulo="Joan Didion: The Center Will Not Hold" genero="Documentary" />
+  <Pelicula titulo="John Mulaney &amp; the Sack Lunch Bunch" genero="Variety show" />
+  <Pelicula titulo="Reversing Roe" genero="Documentary" />
+  <Pelicula titulo="The White Helmets" genero="Documentary" />
+  <Pelicula titulo="Athlete A" genero="Documentary" />
+  <Pelicula titulo="Ludo" genero="Anthology/Dark comedy" />
+  <Pelicula titulo="Quincy" genero="Documentary" />
+  <Pelicula titulo="Rolling Thunder Revue: A bob Dylan Story by Martin Scorsere" genero="Documentary" />
+  <Pelicula titulo="Tell Me Who I Am" genero="Documentary" />
+  <Pelicula titulo="The Bleeding Edge" genero="Documentary" />
+  <Pelicula titulo="The Social Dilemma" genero="Documentary" />
+  <Pelicula titulo="The Two Popes" genero="Drama" />
+  <Pelicula titulo="&quot;What Happened" genero=" Miss Simone?&quot;" />
+  <Pelicula titulo="Yeh Ballet" genero="Drama" />
+  <Pelicula titulo="Anima" genero="Musical / Short" />
+  <Pelicula titulo="Beasts of No Nation" genero="War drama" />
+  <Pelicula titulo="Brene Brown: The Call to Courage" genero="Documentary" />
+  <Pelicula titulo="Crip Camp: A Disability Revolution" genero="Documentary" />
+  <Pelicula titulo="&quot;Jim &amp; Andy: The Great Beyond - Featuring a Very Special" genero=" Contractually Obligated Mention of Tony Cliffton &quot;" />
+  <Pelicula titulo="Justin Timberlake + The Tennessee Kids" genero="Concert Film" />
+  <Pelicula titulo="Road to Roma" genero="Making-of" />
+  <Pelicula titulo="Roma" genero="Drama" />
+  <Pelicula titulo="If Anything Happens I Love You" genero="Animation / Short" />
+  <Pelicula titulo="The Irishman" genero="Crime drama" />
+  <Pelicula titulo="The Trial of the Chicago 7" genero="Drama" />
+  <Pelicula titulo="A Secret Love" genero="Documentary" />
+  <Pelicula titulo="Icarus" genero="Documentary" />
+  <Pelicula titulo="Marriage Story" genero="Drama" />
+  <Pelicula titulo="The Ivory Game" genero="Documentary" />
+  <Pelicula titulo="Struggle: The Life and Lost Art of Szukaiski" genero="Documentary" />
+  <Pelicula titulo="Chasing Coral " genero="Documentary" />
+  <Pelicula titulo="My Octopus Teacher" genero="Documentary" />
+  <Pelicula titulo="Rising Phoenix" genero="Documentary" />
+  <Pelicula titulo="13th" genero="Documentary" />
+  <Pelicula titulo="Disclosure: Trans Lives on Screen" genero="Documentary" />
+  <Pelicula titulo="Klaus" genero="Animation/Christmas/Comedy/Adventure" />
+  <Pelicula titulo="Seaspiracy" genero="Documentary" />
+  <Pelicula titulo="The Three Deaths of Marisela Escobedo" genero="Documentary" />
+  <Pelicula titulo="Cuba and the Cameraman " genero="Documentary" />
+  <Pelicula titulo="Dancing with the Birds" genero="Documentary" />
+  <Pelicula titulo="Ben Platt: Live from Radio City Music Hall" genero="Concert Film" />
+  <Pelicula titulo="Taylor Swift: Reputation Stadium Tour" genero="Concert Film" />
+  <Pelicula titulo="Winter on Fire: Ukraine's Fight for Freedom" genero="Documentary" />
+  <Pelicula titulo="Springsteen on Broadway" genero="One-man show" />
+  <Pelicula titulo="Emicida: AmarElo - It's All For Yesterday" genero="Documentary" />
+  <Pelicula titulo="David Attenborough: A Life on Our Planet" genero="Documentary" />
+</Peliculas>

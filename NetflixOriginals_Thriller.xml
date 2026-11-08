@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Peliculas>
+  <Pelicula>
+    <Title>Dark Forces</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"August 21</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>81</IMDB_Score>
+    <Language>2.6</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Mercy</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"November 22</Premiere>
+    <Runtime>2016"</Runtime>
+    <IMDB_Score>90</IMDB_Score>
+    <Language>4.2</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Secret Obsession</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"July 18</Premiere>
+    <Runtime>2019"</Runtime>
+    <IMDB_Score>97</IMDB_Score>
+    <Language>4.4</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>The Girl on the Train</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"February 26</Premiere>
+    <Runtime>2021"</Runtime>
+    <IMDB_Score>120</IMDB_Score>
+    <Language>4.4</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Fatal Affair</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"July 16</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>89</IMDB_Score>
+    <Language>4.5</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Christmas Crossfire</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"December 4</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>106</IMDB_Score>
+    <Language>4.8</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Mrs. Serial Killer</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"May 1</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>106</IMDB_Score>
+    <Language>4.8</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Rebirth</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"July 15</Premiere>
+    <Runtime>2016"</Runtime>
+    <IMDB_Score>100</IMDB_Score>
+    <Language>5</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Clinical</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"January 13</Premiere>
+    <Runtime>2017"</Runtime>
+    <IMDB_Score>104</IMDB_Score>
+    <Language>5.1</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Dangerous Lies</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"April 30</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>97</IMDB_Score>
+    <Language>5.3</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Intuition</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"May 28</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>116</IMDB_Score>
+    <Language>5.3</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>The Most Assassinated Woman in the World</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"September 7</Premiere>
+    <Runtime>2018"</Runtime>
+    <IMDB_Score>102</IMDB_Score>
+    <Language>5.3</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Guilty</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"March 6</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>119</IMDB_Score>
+    <Language>5.4</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Dead Kids</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"December 1</Premiere>
+    <Runtime>2019"</Runtime>
+    <IMDB_Score>94</IMDB_Score>
+    <Language>5.5</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Red Dot</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"February 11</Premiere>
+    <Runtime>2021"</Runtime>
+    <IMDB_Score>86</IMDB_Score>
+    <Language>5.5</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Hold the Dark</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"September 28</Premiere>
+    <Runtime>2018"</Runtime>
+    <IMDB_Score>125</IMDB_Score>
+    <Language>5.6</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>The Paramedic</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"September 16</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>94</IMDB_Score>
+    <Language>5.6</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Prime Time</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"April 14</Premiere>
+    <Runtime>2021"</Runtime>
+    <IMDB_Score>91</IMDB_Score>
+    <Language>5.7</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Velvet Buzzsaw</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"February 1</Premiere>
+    <Runtime>2019"</Runtime>
+    <IMDB_Score>112</IMDB_Score>
+    <Language>5.7</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>I Am All Girls</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"May 14</Premiere>
+    <Runtime>2021"</Runtime>
+    <IMDB_Score>107</IMDB_Score>
+    <Language>5.8</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>A Fall from Grace</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"January 17</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>120</IMDB_Score>
+    <Language>5.9</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>The Decline</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"March 27</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>83</IMDB_Score>
+    <Language>5.9</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Unknown Origins</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"August 28</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>96</IMDB_Score>
+    <Language>6.1</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>In the Shadow of the Moon</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"September 27</Premiere>
+    <Runtime>2019"</Runtime>
+    <IMDB_Score>115</IMDB_Score>
+    <Language>6.2</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Lost Bullet</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"June 19</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>92</IMDB_Score>
+    <Language>6.2</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Offering to the Storm</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"July 24</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>139</IMDB_Score>
+    <Language>6.2</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Time to Hunt</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"April 23</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>134</IMDB_Score>
+    <Language>6.3</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Fractured</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"October 11</Premiere>
+    <Runtime>2019"</Runtime>
+    <IMDB_Score>100</IMDB_Score>
+    <Language>6.4</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>The Occupant</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"March 25</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>103</IMDB_Score>
+    <Language>6.4</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>His House</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"October 30</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>93</IMDB_Score>
+    <Language>6.5</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Calibre</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"June 29</Premiere>
+    <Runtime>2018"</Runtime>
+    <IMDB_Score>101</IMDB_Score>
+    <Language>6.8</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>AK vs AK</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"December 24</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>108</IMDB_Score>
+    <Language>6.9</Language>
+  </Pelicula>
+  <Pelicula>
+    <Title>Raat Akeli Hai</Title>
+    <Genre>Thriller</Genre>
+    <Premiere>"July 31</Premiere>
+    <Runtime>2020"</Runtime>
+    <IMDB_Score>149</IMDB_Score>
+    <Language>7.3</Language>
+  </Pelicula>
+</Peliculas>

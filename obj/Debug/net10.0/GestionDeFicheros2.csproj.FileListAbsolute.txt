@@ -1,0 +1,14 @@
+C:\Users\Alan\AccesoDatos\GestionDeFicheros2\bin\Debug\net10.0\GestionDeFicheros2.exe
+C:\Users\Alan\AccesoDatos\GestionDeFicheros2\bin\Debug\net10.0\GestionDeFicheros2.deps.json
+C:\Users\Alan\AccesoDatos\GestionDeFicheros2\bin\Debug\net10.0\GestionDeFicheros2.runtimeconfig.json
+C:\Users\Alan\AccesoDatos\GestionDeFicheros2\bin\Debug\net10.0\GestionDeFicheros2.dll
+C:\Users\Alan\AccesoDatos\GestionDeFicheros2\bin\Debug\net10.0\GestionDeFicheros2.pdb
+C:\Users\Alan\AccesoDatos\GestionDeFicheros2\obj\Debug\net10.0\GestionDeFicheros2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\AccesoDatos\GestionDeFicheros2\obj\Debug\net10.0\GestionDeFicheros2.AssemblyInfoInputs.cache
+C:\Users\Alan\AccesoDatos\GestionDeFicheros2\obj\Debug\net10.0\GestionDeFicheros2.AssemblyInfo.cs
+C:\Users\Alan\AccesoDatos\GestionDeFicheros2\obj\Debug\net10.0\GestionDeFicheros2.csproj.CoreCompileInputs.cache
+C:\Users\Alan\AccesoDatos\GestionDeFicheros2\obj\Debug\net10.0\GestionDeFicheros2.dll
+C:\Users\Alan\AccesoDatos\GestionDeFicheros2\obj\Debug\net10.0\refint\GestionDeFicheros2.dll
+C:\Users\Alan\AccesoDatos\GestionDeFicheros2\obj\Debug\net10.0\GestionDeFicheros2.pdb
+C:\Users\Alan\AccesoDatos\GestionDeFicheros2\obj\Debug\net10.0\GestionDeFicheros2.genruntimeconfig.cache
+C:\Users\Alan\AccesoDatos\GestionDeFicheros2\obj\Debug\net10.0\ref\GestionDeFicheros2.dll
